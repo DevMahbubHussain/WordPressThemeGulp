@@ -1,0 +1,2 @@
+(()=>{"use strict";console.log("admin")})();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWRtaW4uanMiLCJtYXBwaW5ncyI6Im1CQUFBQSxRQUFRQyxJQUFJLFUiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly93ZWJtdWx0aXBseS8uL3NyYy9hc3NldHMvanMvYWRtaW4uanMiXSwic291cmNlc0NvbnRlbnQiOlsiY29uc29sZS5sb2coJ2FkbWluJykiXSwibmFtZXMiOlsiY29uc29sZSIsImxvZyJdLCJzb3VyY2VSb290IjoiIn0=
